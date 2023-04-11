@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">34sp</dimen>
+    <dimen name="nameSize">300dp</dimen>
+    <dimen name="nameMargin">30dp</dimen>
+    <dimen name="emailSize">300dp</dimen>
+    <dimen name="emailMargin">30dp</dimen>
+    <dimen name="correoSize">300dp</dimen>
+    <dimen name="phoneSize">300dp</dimen>
+    <dimen name="phoneMargin">30dp</dimen>
+    <dimen name="telefonoSize">300dp</dimen>
+    <dimen name="buttonMargin">30dp</dimen>
+</resources>

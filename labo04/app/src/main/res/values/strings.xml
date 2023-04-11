@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">labo04</string>
+    <string name="name">nombre</string>
+    <string name="email">correo</string>
+    <string name="phone">telefono</string>
+    <string name="tituloApp">Rellena la siguiente informacion</string>
+</resources>
